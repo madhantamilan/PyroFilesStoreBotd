@@ -22,7 +22,7 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [TPL Files Store Bot](https://t.me/{BOT_USERNAME})
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -30,11 +30,11 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @TAMILAN_MK
+🧑🏻‍💻 **Developer:** [TAMILPRIME](https://t.me//@TAMILAN_MK)
 
-👥 **Support Group:** [TPL](https://t.me/Tamil_prime)
+👥 **Support Group:** [TPL](https://t.me/TamilPrime_LinkZz)
 
-📢 **Updates Channel:** [Tamilprime](https://t.me/Tamil_prime)
+📢 **Updates Channel:** [Tamilprime](https://t.me/TamilPrime_LinkZz)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @TAMILAN_MK
